@@ -14,8 +14,8 @@
   name: Sogang University
   dates: 2020-2022
   qualification: MS Computer Science
-  quote: > 
-    Established in 1969, "Be as proud of Sogang as Sogang is proud of you."
+  # quote: > 
+    # Established in 1969, "Be as proud of Sogang as Sogang is proud of you."
   
   description: 
     MultiMediaSystemLab Graduated.
