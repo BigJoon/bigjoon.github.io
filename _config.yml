@@ -5,7 +5,7 @@ favicon: images/favicon.ico
 # Personal info
 name: YoungJoon Hwang
 title: KT Media AI Research Engineer
-email: bigjoon@sogang.ac.kr
+email: hiyoungih@naver.com
 website: bigjoon.github.io
 
 # Social links
@@ -17,15 +17,14 @@ github_username:  bigjoon
 #instagram_username: -
 linkedin_username: youngjoonhwang-47aa38161
 # pinterest_username: jekyll
-youtube_username: channel/UCdtRAcd3L_UpV4tMXCw63NQ 
+# youtube_username: channel/UCdtRAcd3L_UpV4tMXCw63NQ 
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요. BigJoon 입니다.<br>
-  Hi. I'm BigJoon.<br><br>
+  안녕하세요. BigJoon(Hwang Young Joon) 입니다.<br>
   서강대학교 낭종호 교수님 연구실에서 석사 과정을 마쳤습니다..<br>
   M.S Student in Sogang University advised by Prof.Nang.<br><br>
 
