@@ -21,7 +21,7 @@ linkedin_username: youngjoonhwang-47aa38161
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me..
+# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. BigJoon(Hwang Young Joon) 입니다.<br>
@@ -31,14 +31,11 @@ about_content: | # this will include new lines to allow paragraphs
   자신 있는 것 : <mark>TensorFlow</mark> 그리고 <mark>커피 마시기 </mark> <br>
   I am most skilled in: <mark>Tensorflow</mark> and <mark>Drinking Coffee</mark>
 
-
+# Projects Section
+# projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
-
-# Projects Section
-# projects_title: Projects
-# paper_title: Papers
 
 # Education Section
 # educaton_title: Education
