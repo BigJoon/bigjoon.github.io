@@ -5,7 +5,7 @@
   quote: >
     Established in 1969, "Be as proud of Sogang as Sogang is proud of you."
     
-  description: 
+  description: | # this will include new lines to allow paragraphs
     During my time at Sogang I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
     <br>
     Course: Data Structure, Algorithm Design and Analysis, Programming Language, Operating System, Internet Programming, Advanced Software Practice etc..
@@ -19,5 +19,4 @@
   
   description: 
     MultiMediaSystemLab Graduated.
-    <br>
-    Course: Numerical computing and GPU programming, video analysis, advanced multimedia systems
+
