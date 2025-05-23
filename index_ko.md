@@ -7,4 +7,4 @@
 #
 layout: default
 ---
-<a href="index_en.html">English</a>
+<a href="index_en.html" style="display: inline-block; padding: 10px 15px; margin: 10px 0; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; text-align: center;">English</a>
