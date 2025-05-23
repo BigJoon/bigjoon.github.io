@@ -24,12 +24,7 @@ linkedin_username: youngjoonhwang-47aa38161
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요. BigJoon(Hwang Young Joon) 입니다.<br>
-  서강대학교 낭종호 교수님 연구실에서 석사 과정을 마쳤습니다..<br>
-  M.S Student in Sogang University advised by Prof.Nang.<br><br>
-
-  자신 있는 것 : <mark>TensorFlow</mark> 그리고 <mark>커피 마시기 </mark> <br>
-  I am most skilled in: <mark>Tensorflow</mark> and <mark>Drinking Coffee</mark>
+  AI Consultant Expert with a Master's degree from Sogang University, specializing in leveraging AI to solve complex business challenges. Proven experience in developing and implementing innovative AI solutions.
 
 # Projects Section
 # projects_title: Projects
