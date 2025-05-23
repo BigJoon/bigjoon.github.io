@@ -24,7 +24,7 @@ linkedin_username: youngjoonhwang-47aa38161
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  AI Consultant Expert with a Master's degree from Sogang University, specializing in leveraging AI to solve complex business challenges. Proven experience in developing and implementing innovative AI solutions.
+  AI Consultant Expert with a Master's degree from Sogang University, specializing in leveraging AI to solve complex business challenges. Proven experience in developing and implementing innovative AI solutions. <a href="index_ko.html">(Switch to Korean)</a>
 
 # Projects Section
 # projects_title: Projects
