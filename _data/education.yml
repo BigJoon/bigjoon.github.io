@@ -1,28 +1,25 @@
 - layout: left
   name: Sogang University
   dates: 2020 - 2022
-  qualification: 컴퓨터 과학 석사
-  quote: "AI 및 고급 컴퓨팅에 중점을 둔 석사 학위."
+  qualification: MSc Computer Science
+  quote: "Master's degree focused on AI and advanced computing."
   description: |
     Courses taken during the Master's program:
-    - Data mining
-    - 수치 컴퓨팅 및 gpu 프로그래밍 (Numerical Computing and GPU Programming)
-    - 동영상 해석 (Video Analysis)
-    - 신경회로망 (Neural Networks)
-    - 멀티미디어 특론 (Special Topics in Multimedia)
-    - 고급 알고리즘 (Advanced Algorithms)
-    - 임베디드 컴퓨터 구조 (Embedded Computer Architecture)
+    - Data Mining (데이터 마이닝)
+    - Numerical Computing and GPU Programming (수치 컴퓨팅 및 GPU 프로그래밍)
+    - Video Analysis (동영상 해석)
+    - Neural Networks (신경회로망)
+    - Special Topics in Multimedia (멀티미디어 특론)
+    - Advanced Algorithms (고급 알고리즘)
+    - Embedded Computer Architecture (임베디드 컴퓨터 구조)
 
 - layout: left
-  name: 서강대학교
+  name: Sogang University
   dates: 2014 - 2020
-  qualification: 컴퓨터 과학 학사
+  qualification: BSc Computer Science
   quote: >
-    1969년 설립, "그대 서강의 자랑이듯, 서강 그대의 자랑이어라."
-    
+    Established in 1969, "Be as proud of Sogang as Sogang is proud of you."
   description: | # this will include new lines to allow paragraphs
-    서강대학교 재학 중 팀워크, 마감 기한 준수 등 중요한 역량을 배웠습니다. 대학 생활을 통해 일과 삶의 균형에 대해 많이 배웠습니다.
+    During my time at Sogang I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
     <br>
-    주요 과목: 자료구조, 알고리즘 설계와 분석, 프로그래밍 언어, 운영체제, 인터넷 프로그래밍, 고급 소프트웨어 실습 등.
-
-   
+    Course: Data Structure, Algorithm Design and Analysis, Programming Language, Operating System, Internet Programming, Advanced Software Practice etc..
