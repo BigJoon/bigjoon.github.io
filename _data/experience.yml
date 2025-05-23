@@ -1,4 +1,28 @@
 - layout: left
+  company: KT
+  # link: <placeholder or actual link if available> # Let's omit the link for now if not provided
+  job_title: R&D (Media Business Division)
+  dates: 2022.07 - Present
+  quote: >
+    Innovating in media technology to enhance user experiences.
+  description: |
+    **2022: AI Curated Viewing Service (Project: MetaBar) on Genie TV**
+    * Led the "MetaBar" project for Genie TV's "AI Curated Viewing" (AI 골라보기) service.
+    * Designed the core behavioral model engine for the service.
+    * Managed the data collection process and personally trained the AI model.
+
+    **2023: Objet Book PoC & Magic Platform Commercial Launch**
+    * Successfully completed a Proof of Concept (PoC) for "Objet Book" in collaboration with Millie's Library (밀리의 서재).
+    * Planned and successfully launched the commercial version of "Magic Platform," a comprehensive platform integrating KT's core media technologies.
+
+    **2024: AI Short-form Video Generation**
+    * Designed the architecture for an AI-powered short-form video generation system.
+    * Successfully completed the Proof of Concept (PoC) for this system.
+    * Subsequently led the commercialization efforts for this AI short-form video generation technology.
+
+    **Current Work:**
+    * Engaged in two ongoing projects (details confidential).
+- layout: left
   company: Magic Eco
   link: http://www.magice.co/
   job_title: Software Engineer(Manager)
