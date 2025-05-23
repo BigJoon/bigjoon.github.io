@@ -7,4 +7,4 @@
 #
 layout: default
 ---
-<a href="index_ko.html">한국어</a>
+<a href="index_ko.html" style="display: inline-block; padding: 10px 15px; margin: 10px 0; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; text-align: center;">한국어</a>
