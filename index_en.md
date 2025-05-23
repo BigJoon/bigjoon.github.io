@@ -7,3 +7,4 @@
 #
 layout: default
 ---
+<a href="index_ko.html">한국어</a>
